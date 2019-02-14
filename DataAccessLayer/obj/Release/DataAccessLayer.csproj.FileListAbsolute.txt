@@ -1,0 +1,9 @@
+/Users/aluno/Projects/SoluctionClinica/DataAccessLayer/bin/Release/DataAccessLayer.dll.config
+/Users/aluno/Projects/SoluctionClinica/DataAccessLayer/bin/Release/DataAccessLayer.dll
+/Users/aluno/Projects/SoluctionClinica/DataAccessLayer/bin/Release/BLL.dll
+/Users/aluno/Projects/SoluctionClinica/DataAccessLayer/bin/Release/MySql.Data.dll
+/Users/aluno/Projects/SoluctionClinica/DataAccessLayer/bin/Release/BLL.dll.config
+/Users/aluno/Projects/SoluctionClinica/DataAccessLayer/obj/Release/DataAccessLayer.csprojAssemblyReference.cache
+/Users/aluno/Projects/SoluctionClinica/DataAccessLayer/obj/Release/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/SoluctionClinica/DataAccessLayer/obj/Release/DataAccessLayer.csproj.CopyComplete
+/Users/aluno/Projects/SoluctionClinica/DataAccessLayer/obj/Release/DataAccessLayer.dll

@@ -1,0 +1,10 @@
+/Users/aluno/Projects/SoluctionClinica/View/bin/View.dll
+/Users/aluno/Projects/SoluctionClinica/View/bin/BLL.dll
+/Users/aluno/Projects/SoluctionClinica/View/bin/DataAccessLayer.dll
+/Users/aluno/Projects/SoluctionClinica/View/bin/MySql.Data.dll
+/Users/aluno/Projects/SoluctionClinica/View/bin/BLL.dll.config
+/Users/aluno/Projects/SoluctionClinica/View/bin/DataAccessLayer.dll.config
+/Users/aluno/Projects/SoluctionClinica/View/obj/Release/View.csprojAssemblyReference.cache
+/Users/aluno/Projects/SoluctionClinica/View/obj/Release/View.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/SoluctionClinica/View/obj/Release/View.csproj.CopyComplete
+/Users/aluno/Projects/SoluctionClinica/View/obj/Release/View.dll

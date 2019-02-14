@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D0F44EEC-EF22-47DB-BC3D-D6249DD04FD4}|">
+  <MonoDevelop.Ide.ItemProperties.View PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="View/Pages/CidadeLista.aspx.designer.cs">
+    <Files>
+      <File FileName="View/Pages/CidadeLista.aspx" Line="17" Column="30" />
+      <File FileName="View/Pages/CidadeLista.aspx.cs" Line="2" Column="1" />
+      <File FileName="View/Pages/CidadeLista.aspx.designer.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
